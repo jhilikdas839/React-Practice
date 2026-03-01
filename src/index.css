@@ -10,7 +10,10 @@ html,bod{
     width: 100%;
 }
 
-form{
+
+/* Notes.jsx part css Start */
+
+/* form{
     width: 100%;
     height: 100%;
     display: flex;
@@ -95,4 +98,21 @@ button{
     display: flex;
     justify-content: center;
     align-items: center;
+} */
+
+/* Notes.jsx part css End */
+
+
+/* Spline Design Practice Start Here */
+
+.Main{
+   background-color: black;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+    
 }
+
