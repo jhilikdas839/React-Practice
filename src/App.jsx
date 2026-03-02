@@ -4,7 +4,8 @@ import React from "react";
 // import Obj from "./components/Obj";
 // import Twb from "./components/Twb";
 // import Notes from "./components/Notes";
-import SplineDemo from "./components/SplineDemo";
+// import SplineDemo from "./components/SplineDemo";
+import LocalStorage from "./components/LocalStorage";
 const App = () => {
   return (
     <div>
@@ -12,8 +13,8 @@ const App = () => {
       {/* <Obj /> */}
       {/* <Twb /> */}
       {/* <Notes /> */}
-
-      <SplineDemo />
+       {/* <SplineDemo /> */}
+       <LocalStorage />
     </div>
   );
 };
