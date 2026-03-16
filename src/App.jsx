@@ -7,8 +7,9 @@ import React from "react";
 // import SplineDemo from "./components/SplineDemo";
 // import LocalStorage from "./components/LocalStorage";
 // import Api from "./components/Api";
-import Axious from "./components/Axious";
-import EffectHook from "./components/EffectHook";
+// import Axious from "./components/Axious";
+// import EffectHook from "./components/EffectHook";
+ import Gallery from "./components/Gallery";
 const App = () => {
   return (
     <div>
@@ -20,8 +21,9 @@ const App = () => {
        {/* <LocalStorage /> */}
        {/* <Api /> */}
        {/* <Axious /> */}
+        {/* <EffectHook /> */}
 
-       <EffectHook />
+        <Gallery />
     </div>
   );
 };
