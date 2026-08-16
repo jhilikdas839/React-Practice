@@ -1,0 +1,21 @@
+{
+  "Users": [
+    {
+      "id": "123jhilik",
+      "username": "Jhilik",
+      "email": "jhilikdas839@gmail.com",
+      "password": "1234"
+    }
+  ],
+
+  "Products": [
+    {
+      "id": "456jhilik",
+      "title": "Laptop",
+      "price": "12k",
+      "description": "laptop ",
+      "category": "Techinical",
+      "image": "https://i.pinimg.com/736x/b1/45/e3/b145e37390636434c36b9f9f6be0c751.jpg"
+    }
+  ]
+}
